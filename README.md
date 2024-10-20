@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Cusomized FHIR(template-based and restframework)</h1>
+<h1 align="center">Customized FHIR(template-based and restframework)</h1>
 <h3 align="center">Ay Doctor Company</h3>
 </div>
 <p align="center">
