@@ -19,22 +19,22 @@
 Aydoctor company is working in the medial field creating web service for Medical record. I developed the customized FHIR system for this company to record all medical factors related to users. 
  
 # Why this application is formed :
-Lack of a comprehensive and coordinated system to monitor the health of people in the community
-Lack of regular and coordinated communication between prescribed drugs
-Doctors not having access to the patient's medical record 
+- Lack of a comprehensive and coordinated system to monitor the health of people in the community
+- Lack of regular and coordinated communication between prescribed drugs
+- Doctors not having access to the patient's medical record 
 Available alternatives:
   FHIR  (Fast Healthcare Interoperability Resources)
 
 # Value proposition:
-•	The purpose of this program is to prevent the occurrence of medical disorders
-•	 Creating a coherent medical system for people in the community
-•	A comprehensive system to monitor the performance of doctors
-•	A comprehensive system for recording the health status of the community 
+-	The purpose of this program is to prevent the occurrence of medical disorders
+-	 Creating a coherent medical system for people in the community
+-	A comprehensive system to monitor the performance of doctors
+-	A comprehensive system for recording the health status of the community 
 
 # Reqiurements:
-•	HTML/CSS/Bootstrap template
-•	Python/ Django/REST Framework
-•	Javascript/Jquery/ 
+-	HTML/CSS/Bootstrap template
+-	Python/ Django/REST Framework
+-	Javascript/Jquery/ 
 
 # Clone the repo
 Clone this repo anywhere you want and move into the directory:
